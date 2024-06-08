@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 ![Metrics](metrics.plugin.languages.recent.svg)
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/aurora-dot/aurora-dot/blob/main/bg.png?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[font-family: goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; width: 100%; opacity: 0.5; background: url('https://github.com/aurora-dot/aurora-dot/blob/main/bg.png?raw=true');background-repeat: repeat;background-size: 100px 100px;]{x0000}$}
